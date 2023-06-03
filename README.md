@@ -22,14 +22,6 @@ We welcome contributions from developers who are interested in improving the sit
 ## 🛠 Skills
 React, Firebase...
 
-
-
-
 ## Support
 
 For support, deshpandecharul16@gmail.com or join our Slack channel.
-
-## Screenshots
-
-![App Screenshot](https://github.com/Chinzuu/Project_Managment_Website/blob/master/WhatsApp%20Image%202023-03-31%20at%209.24.55%20PM.jpeg)
-
